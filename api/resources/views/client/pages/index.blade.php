@@ -10,14 +10,15 @@
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8">
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Find The Perfect Job That You
-                                    Deserved</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at
-                                    sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Search A
-                                    Job</a>
-                                <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Find A
-                                    Talent</a>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Trouvez la Propriété Parfaite
+                                    pour Vous</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Découvrez une large sélection de propriétés
+                                    immobilières adaptées à vos besoins et à votre budget. Des appartements aux maisons,
+                                    nous avons ce qu'il vous faut.</p>
+                                <a href=""
+                                    class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Rechercher un Bien</a>
+                                <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contacter
+                                    un Agent</a>
                             </div>
                         </div>
                     </div>
@@ -30,14 +31,15 @@
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8">
-                                <h1 class="display-3 text-white animated slideInDown mb-4">Find The Best Startup Job That
-                                    Fit You</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at
-                                    sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Search A
-                                    Job</a>
-                                <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Find A
-                                    Talent</a>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Vendez ou Louez Votre Bien
+                                    Immobilier</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Vous êtes propriétaire ? Profitez de notre
+                                    plateforme pour mettre en valeur votre bien et toucher un large public d'acheteurs ou de
+                                    locataires potentiels.</p>
+                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Publier
+                                    une Annonce</a>
+                                <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Devenir
+                                    Agent</a>
                             </div>
                         </div>
                     </div>
@@ -172,13 +174,15 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">We Help To Get The Best Job And Find A Talent</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et
-                        eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                    <p><i class="fa fa-check text-primary me-3"></i>Tempor erat elitr rebum at clita</p>
-                    <p><i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam et eos</p>
-                    <p><i class="fa fa-check text-primary me-3"></i>Clita duo justo magna dolore erat amet</p>
-                    <a class="btn btn-primary py-3 px-5 mt-3" href="">Read More</a>
+                    <h1 class="mb-4">Nous Aidons à Trouver la Propriété Idéale et à Connecter Acheteurs et Agents</h1>
+                    <p class="mb-4">Notre plateforme immobilière offre une expérience unique pour trouver, acheter,
+                        vendre ou louer des biens immobiliers. Nous mettons en relation les acheteurs potentiels avec des
+                        agents immobiliers qualifiés pour une transaction en toute confiance.</p>
+                    <p><i class="fa fa-check text-primary me-3"></i>Large sélection de propriétés vérifiées</p>
+                    <p><i class="fa fa-check text-primary me-3"></i>Mise en relation directe avec des agents professionnels
+                    </p>
+                    <p><i class="fa fa-check text-primary me-3"></i>Outils avancés pour une recherche personnalisée</p>
+                    <a class="btn btn-primary py-3 px-5 mt-3" href="">En Savoir Plus</a>
                 </div>
             </div>
         </div>

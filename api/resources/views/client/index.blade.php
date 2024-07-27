@@ -91,17 +91,17 @@
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-10 col-lg-8">
-                                    <h1 class="display-3 text-white animated slideInDown mb-4">Find The Perfect Job That
-                                        You Deserved</h1>
-                                    <p class="fs-5 fw-medium text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum
-                                        dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd
-                                        rebum sea elitr.</p>
+                                    <h1 class="display-3 text-white animated slideInDown mb-4">Trouvez la Propriété
+                                        Parfaite pour Vous</h1>
+                                    <p class="fs-5 fw-medium text-white mb-4 pb-2">Découvrez une large sélection de
+                                        propriétés immobilières adaptées à vos besoins et à votre budget. Des
+                                        appartements aux maisons, nous avons ce qu'il vous faut.</p>
                                     <a href=""
-                                        class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Search A
-                                        Job</a>
+                                        class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Rechercher un
+                                        Bien</a>
                                     <a href=""
-                                        class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Find A
-                                        Talent</a>
+                                        class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Contacter un
+                                        Agent</a>
                                 </div>
                             </div>
                         </div>
@@ -114,17 +114,17 @@
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-10 col-lg-8">
-                                    <h1 class="display-3 text-white animated slideInDown mb-4">Find The Best Startup
-                                        Job That Fit You</h1>
-                                    <p class="fs-5 fw-medium text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum
-                                        dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd
-                                        rebum sea elitr.</p>
+                                    <h1 class="display-3 text-white animated slideInDown mb-4">Vendez ou Louez Votre
+                                        Bien Immobilier</h1>
+                                    <p class="fs-5 fw-medium text-white mb-4 pb-2">Vous êtes propriétaire ? Profitez de
+                                        notre plateforme pour mettre en valeur votre bien et toucher un large public
+                                        d'acheteurs ou de locataires potentiels.</p>
                                     <a href=""
-                                        class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Search A
-                                        Job</a>
+                                        class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Publier une
+                                        Annonce</a>
                                     <a href=""
-                                        class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Find A
-                                        Talent</a>
+                                        class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Devenir
+                                        Agent</a>
                                 </div>
                             </div>
                         </div>
